@@ -6,7 +6,7 @@
 
 ## Fonctionnalités
 ### Stockage de cours
-Reviz permet le stokage des cours avec un moyen simple de scan pour en ajouter en scannant simplement le document donné par le professeur.
+Reviz permet le stockage des cours avec un moyen simple de scan pour en ajouter en scannant simplement le document donné par le professeur.
 
 ### Plusieurs plateformes
 Reviz contient plusieurs plateforme simple et intuitive pour apprendre à réviser et permet au élèves de s'organiser.
