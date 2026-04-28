@@ -8,6 +8,9 @@
 ### Stockage de cours
 Reviz permet le stockage des cours avec un moyen simple de scan pour en ajouter en scannant simplement le document donné par le professeur.
 
-### Plusieurs plateformes
+### Plusieurs applications
 Reviz contient plusieurs plateforme simple et intuitive pour apprendre à réviser et permet au élèves de s'organiser.
+
+### Gratuite
+Toute nos applications sont gratuites mais il est possible de payer la version premium pour avoir plus de fonctionnalités.
  
